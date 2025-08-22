@@ -1,3 +1,5 @@
+<img width="960" height="405" alt="SpringworksLogoBooth" src="https://github.com/user-attachments/assets/62b80084-b720-43c3-bac6-d1043377f814" />
+
 # Overview​
 Sonic Springworks is a fangame framework developed using Unreal Engine 5.4, designed with a focus on being straightforward and easy to use.
 
