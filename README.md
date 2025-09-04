@@ -14,11 +14,12 @@ Sonic Springworks is a fangame framework developed using Unreal Engine 5.4, desi
 
 # Support
 If you have any questions or run into issues when using Sonic Springworks, share it in the Discord server.
-<br/>Altneritively, you can submit an Issue on the repository detailing:
+<br/>Alternatively, you can submit an Issue on the repository detailing:
 - What your question/issue is.
 - Instructions on replicating the issue (if applicable).
 - Screenshots/videos to help show the issue (if applicable).
 
 
 # Setup
-Setup guide goes here.
+Below is a setup guide for downloading and installing what is necessary to use Sonic Springworks.
+https://docs.google.com/document/d/1KGrRlS5ugpQy2ic_v0-7XCJFcyQsPdnQCQKN-7Eoil0/edit?usp=sharing
